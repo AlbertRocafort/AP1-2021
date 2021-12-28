@@ -1,0 +1,24 @@
+
+- Avaluació de polinomis
+
+- Triangle (Patrons)
+- Rombre (Patrons)
+- Quadrats Curiosos (Patrons)
+
+- Funció per als anys de traspàs
+- Nombres Narcicistes
+
+- Swap
+
+- Factorial Recursiu
+- Barres 1 (Patrons)
+- Barres 2 (Patrons)
+- Barres 3 (Patrons)
+- Girant una llista de paraules (6)
+- Canvis de Base
+- Expressió prefixada
+
+- Paraules consecutives repetides
+- Com la suma dels demés (1)
+- Concatenació Composta
+- Una paraula mal posada

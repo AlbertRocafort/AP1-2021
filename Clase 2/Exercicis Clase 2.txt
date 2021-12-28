@@ -1,0 +1,11 @@
+
+- Unió exclusiva de vectors ordenats
+- L'escarbat d'or
+
+- Subquadrats en una matriu
+- Sopa de lletres amb punts
+- Billar 2
+
+- Paraules Repetides
+- Moda (Per Sobre)
+- Ordenant Rectangles
